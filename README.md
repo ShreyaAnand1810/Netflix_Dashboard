@@ -84,9 +84,9 @@ It contains:
 ## 🤝 Contributing
 
 Contributions are welcome!
-1.Fork the repo
-2.Create a new branch (feature-new-idea)
-3.Commit changes & push
-4.Open a Pull Request
+- 1.Fork the repo
+- 2.Create a new branch (feature-new-idea)
+- 3.Commit changes & push
+- 4.Open a Pull Request
 
 
