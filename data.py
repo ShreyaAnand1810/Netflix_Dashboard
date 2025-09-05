@@ -4,7 +4,7 @@ from dateutil import parser
 from typing import Tuple
 import urllib.parse
 
-CSV_PATH = "data/netflix_titles.csv"
+CSV_PATH = "Data/netflix_titles.csv"
 
 def load_raw(csv_path: str = CSV_PATH) -> pd.DataFrame:
     """
@@ -89,4 +89,5 @@ def get_summaries(df: pd.DataFrame) -> dict:
         "years_range": (int(df["release_year_int"].min()) if df["release_year_int"].notna().any() else None,
                         int(df["release_year_int"].max()) if df["release_year_int"].notna().any() else None)
     }
+
 
