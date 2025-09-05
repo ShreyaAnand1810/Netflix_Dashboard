@@ -6,8 +6,7 @@ Users can filter by year, type, country, genre, and search by title — with **d
 ---
 
 ## 🚀 Live Demo
-👉 [Open the App](https://your-username-netflix-dashboard.streamlit.app)
-
+👉 [Open the App](https://netflixdashboard-qwjbcktrn9a4gc8eddeaqs.streamlit.app/)
 ---
 
 ## 📊 Features
@@ -39,14 +38,12 @@ Users can filter by year, type, country, genre, and search by title — with **d
 ---
 
 ## 📂 Project Structure
-├── app.py # Streamlit app (UI & dashboard)
-├── data.py # Data loading & preprocessing
-├── netflix_titles.csv # Dataset (from Kaggle)
-├── 01_EDA.ipynb # Exploratory Data Analysis notebook
-├── 02_EDA.ipynb # Additional EDA
-├── 02_Preprocessing.ipynb # Preprocessing notebook
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+ - ├── data/ # Folder containing dataset
+ - │ └── netflix_titles.csv # Dataset (from Kaggle)
+ - ├── data.py # Data loading & preprocessing
+ - ├── app.py # Streamlit app (UI & dashboard)
+ - ├── requirements.txt # Dependencies
+ - └── README.md # Project documentation
 
 ## 📦 Installation & Local Run
 
@@ -75,16 +72,16 @@ Users can filter by year, type, country, genre, and search by title — with **d
 
 The dataset comes from Kaggle - Netflix Movies and TV Shows.
 It contains:
--Title, type (Movie/TV Show), director, cast
--Country, release year, rating, duration
--Listed genres, description, and date added to Netflix
+- Title, type (Movie/TV Show), director, cast
+- Country, release year, rating, duration
+- Listed genres, description, and date added to Netflix
 
 ## ✨ Future Improvements
 
--Recommendation system for similar titles
--Advanced search (multi-genre, multi-country matching)
--Deploy on multiple platforms (Render, Railway, AWS)
--User authentication (e.g., Streamlit Authenticator)
+- Recommendation system for similar titles
+- Advanced search (multi-genre, multi-country matching)
+- Deploy on multiple platforms (Render, Railway, AWS)
+- User authentication (e.g., Streamlit Authenticator)
 
 ## 🤝 Contributing
 
