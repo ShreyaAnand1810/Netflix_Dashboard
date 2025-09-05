@@ -7,7 +7,7 @@ from data import load_raw, preprocess, get_summaries
 st.set_page_config(page_title="Netflix Shows & Movies Analytics", layout="wide", initial_sidebar_state="expanded")
 
 @st.cache_data
-def load_and_prep(path="./netflix_titles.csv"):
+def load_and_prep(path="data/netflix_titles.csv"):
     raw = load_raw(path)
     df = preprocess(raw)
     return df
@@ -164,4 +164,5 @@ for _, row in disp_table.head(20).iterrows():
 
 st.markdown("---")
 st.caption("Tip: clicking 'Open on Netflix' sends you to Netflix search results for that title. Netflix will ask you to sign in to watch the content.")
+
 
