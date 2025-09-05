@@ -6,7 +6,8 @@ Users can filter by year, type, country, genre, and search by title — with **d
 ---
 
 ## 🚀 Live Demo
-👉 Open the App (https://netflixdashboard-qwjbcktrn9a4gc8eddeaqs.streamlit.app/)
+
+👉 [Open the App] (https://netflixdashboard-qwjbcktrn9a4gc8eddeaqs.streamlit.app/)
 ---
 
 ## 📊 Features
@@ -39,7 +40,6 @@ Users can filter by year, type, country, genre, and search by title — with **d
 
 ## 📂 Project Structure
  - ├── data/ # Folder containing dataset
- -  └── netflix_titles.csv # Dataset (from Kaggle)
  - ├── data.py # Data loading & preprocessing
  - ├── app.py # Streamlit app (UI & dashboard)
  - ├── requirements.txt # Dependencies
@@ -91,6 +91,4 @@ Contributions are welcome!
 3.Commit changes & push
 4.Open a Pull Request
 
-## 👩‍💻 Author: Shreya Anand
-🔗 LinkedIn
- | GitHub
+
