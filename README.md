@@ -6,9 +6,7 @@ Users can filter by year, type, country, genre, and search by title — with **d
 ---
 
 ## 🚀 Live Demo
-
-👉 [Open the App] (https://netflixdashboard-qwjbcktrn9a4gc8eddeaqs.streamlit.app/)
----
+👉 [Open the App](https://netflixdashboard-qwjbcktrn9a4gc8eddeaqs.streamlit.app/)
 
 ## 📊 Features
 
