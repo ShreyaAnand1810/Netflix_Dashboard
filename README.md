@@ -4,9 +4,22 @@ An interactive **Streamlit dashboard** for exploring and analyzing Netflix title
 Users can filter by year, type, country, genre, and search by title — with **dynamic visualizations** and links that redirect directly to Netflix.
 
 ---
+## 🔎 Problem Statement:
+“The project aims to analyze Netflix titles dataset to explore trends in content production across time, countries, and genres, providing users with an interactive dashboard for insights.”
+
+### 🎯 Objectives:
+
+- Understand how Netflix’s content has evolved over years.
+- Compare distribution of Movies vs TV Shows.
+- Identify popular genres and producing countries.
+- Provide interactive exploration tools for deeper insights.
+
+---
 
 ## 🚀 Live Demo
 👉 [Open the App](https://netflixdashboard-qwjbcktrn9a4gc8eddeaqs.streamlit.app/)
+
+---
 
 ## 📊 Features
 
@@ -68,11 +81,13 @@ Users can filter by year, type, country, genre, and search by title — with **d
 
 ## 📊 Dataset
 
-The dataset comes from Kaggle - Netflix Movies and TV Shows.
-It contains:
-- Title, type (Movie/TV Show), director, cast
-- Country, release year, rating, duration
-- Listed genres, description, and date added to Netflix
+- Dataset name: Netflix Movies and TV Shows Dataset
+- Source: Kaggle (https://www.kaggle.com/shivamb/netflix-shows)
+- Size: “~8,800 rows × 12 columns.”
+- It contains:
+  - Title, type (Movie/TV Show), director, cast
+  - Country, release year, rating, duration
+  - Listed genres, description, and date added to Netflix
 
 ## ✨ Future Improvements
 
