@@ -129,4 +129,8 @@ Contributions are welcome!
 - Commit changes & push
 - Open a Pull Request
 
+---
+
+## 📑 Project Presentation
+You can view the project presentation [here](presentation/Netflix_Analytics_Presentation.pdf).
 
