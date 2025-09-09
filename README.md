@@ -132,5 +132,11 @@ Contributions are welcome!
 ---
 
 ## 📑 Project Presentation
-You can view the project presentation [here](presentation/Netflix_Analytics_Presentation.pdf).
+You can view the project presentation here: [Netflix_Analytics_Presentation.pdf](presentation/Netflix_Analytics_Presentation.pdf)
+
+## 🌐 Live Dashboard
+Explore the interactive Streamlit app: https://netflixdashboard-qwjbcktrn9a4gc8eddeaqs.streamlit.app/
+
+## 💻 GitHub Repository
+Full project code is available in this repository.
 
