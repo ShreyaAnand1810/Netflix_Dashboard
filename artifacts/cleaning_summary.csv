@@ -1,0 +1,2 @@
+rows_before,rows_after,duplicates_removed,missing_values_after
+8807,8807,0,"{'show_id': 0, 'type': 0, 'title': 0, 'director': 0, 'cast': 0, 'country': 0, 'date_added': 98, 'release_year': 0, 'rating': 0, 'duration': 0, 'listed_in': 0, 'description': 0, 'year_added': 98, 'month_added': 98, 'day_of_week': 98, 'is_movie': 0, 'duration_mins': 2679, 'num_seasons': 6131, 'release_gap': 98, 'rating_encoded': 0, 'main_genre': 0}"
